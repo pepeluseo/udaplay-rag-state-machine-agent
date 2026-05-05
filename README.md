@@ -19,6 +19,11 @@ Key tasks:
   - Publisher
   - Description
   - Year of Release
+ 
+## Project Screenshots
+
+## Add Documents
+![Add_documents](assets/Add_documents.png)
 
 ### Part 2: AI Agent Development
 Build an intelligent agent that combines local knowledge with web search capabilities.
