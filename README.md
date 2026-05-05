@@ -23,7 +23,7 @@ Key tasks:
 ## Project Screenshots
 
 ## Add Documents
-![Add_documents](IA_Agent_Industry_Videogames/assets/Add_documents.png)
+![Add_documents](assets/Add_documents.png)
 
 ### Part 2: AI Agent Development
 Build an intelligent agent that combines local knowledge with web search capabilities.
