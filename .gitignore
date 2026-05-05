@@ -1,0 +1,33 @@
+# Environment variables
+.env
+config.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ChromaDB local vector database
+chroma_udaplay_db/
+chroma_udaplay_db_local/
+
+# Logs
+*.logchromadb/
+
+# Chroma package/cache folder
+/chromadb/
+chromadb/**
