@@ -22,7 +22,7 @@ Key tasks:
  
 ## Project Screenshots
 
-## Add Documents
+### Vector Database Document Ingestion
 ![Add_documents](assets/Add_documents.png)
 
 ### Part 2: AI Agent Development
@@ -87,11 +87,23 @@ After completing both parts, test your agent with questions like:
 - "Which one was the first 3D platformer Mario game?"
 - "Was Mortal Kombat X released for PlayStation 5?"
 
+
+### Agent Performance and Reasoning Report
+
+![Agent Performance](assets/Agent_performance.png)
+
+
 ## Advanced Features
 
 After completing the basic implementation, you can enhance your agent with:
 - Long-term memory capabilities
 - Additional tools and capabilities
+
+
+### Web Search Tool Demo
+
+![Game Web Search](assets/Game_web_search.png)
+
 
 ## Notes
 - Make sure to implement proper error handling
